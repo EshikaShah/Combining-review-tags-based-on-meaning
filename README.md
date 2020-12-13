@@ -8,11 +8,11 @@
 Customers write product reviews on ecommerce websites like Amazon. Amazon processes the reviews to generate commonly
 occurring tags. But, there exist multiple tags referring to the same thing.
 
-Tag                 # Reviews
-Fingerprint         119
-Fingerprint reader  52
-Fingerprint sensor  24
-Fingerprint scanner 18
+Tag                 #Reviews<br/>
+Fingerprint         - 119<br/>
+Fingerprint reader  - 52<br/>
+Fingerprint sensor  - 24<br/>
+Fingerprint scanner - 18<br/>
 
 These 4 tags refer to the same thing.
 Ideally there should be only one tag - fingerprint reader that combines all other fingerprint related tags and maps to the corresponding reviews.
